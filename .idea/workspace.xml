@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a18ac756-7417-43b5-9d03-9902efa08585" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../admin/.idea/admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dayi_admin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dayi_admin/.idea/dayi_admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dayi_admin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dayi_admin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dayi_admin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/wangyuece-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/wangyuece-api/wangyuece-api-u/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wangyuece-demo-alll/wangyuece-demo-alll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../工作日报.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../课程一/人员/HBuilderX.2.9.8.20201110/HBuilderX/plugins/uniapp-cli/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../课程一/人员/HBuilderX.2.9.8.20201110/HBuilderX/plugins/uniapp-cli/node_modules/less-loader/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../课程一/人员/HBuilderX.2.9.8.20201110/HBuilderX/plugins/uniapp-cli/node_modules/safe-area-insets/.idea/safeAreaInsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/b.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mHALFGz3hPPURCyxM7NL3ItFCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -88,5 +131,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a18ac756-7417-43b5-9d03-9902efa08585" name="Default Changelist" comment="" />
+      <created>1609140084054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609140084054</updated>
+      <workItem from="1609140087166" duration="280000" />
+    </task>
+    <task id="LOCAL-00001" summary="咨询">
+      <created>1609140183749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609140183749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="咨询" />
+    <option name="LAST_COMMIT_MESSAGE" value="咨询" />
   </component>
 </project>
